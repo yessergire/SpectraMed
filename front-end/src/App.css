@@ -1,0 +1,11 @@
+* {
+  margin: 0;
+}
+
+html, body {
+  height: 100%;
+}
+
+.tabs, .spacing {
+  height: 150px; /* .push must be the same height as .footer */
+}

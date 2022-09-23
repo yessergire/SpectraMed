@@ -1,0 +1,21 @@
+{
+  "name": "nightingale",
+  "version": "1.0.0",
+  "description": "Nightingale assignment",
+  "main": "",
+  "scripts": {
+    "install": "cd ./front-end && npm i && cd ../back-end && npm i",
+    "start:frontend": "cd ./front-end && npm start",
+    "start:backend": "cd ./back-end && npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yessergire/nightingale.git"
+  },
+  "author": "Yessergire Mohamed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yessergire/nightingale/issues"
+  },
+  "homepage": "https://github.com/yessergire/nightingale#readme"
+}
